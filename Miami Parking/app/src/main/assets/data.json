@@ -1,0 +1,885 @@
+[
+  {
+    "TYPE": "Red",
+    "NAME": "5285 Brown Rd.",
+    "OCCUPIED": "2",
+    "TOTAL": "43"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Advancement Services Center",
+    "OCCUPIED": "10",
+    "TOTAL": "35"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Alumni Bishop Service Drive",
+    "OCCUPIED": "2",
+    "TOTAL": "41"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Armstrong Center Service Drive",
+    "OCCUPIED": "1",
+    "TOTAL": "1"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Art Museum",
+    "OCCUPIED": "16",
+    "TOTAL": "35"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Bachelor Hall Lot",
+    "OCCUPIED": "80",
+    "TOTAL": "84"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Beechwoods Hall Service Drive",
+    "OCCUPIED": "2",
+    "TOTAL": "2"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Benton Hall Lot",
+    "OCCUPIED": "25",
+    "TOTAL": "48"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Benton Hall Service Drive",
+    "OCCUPIED": "23",
+    "TOTAL": "48"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Bishop Circle",
+    "OCCUPIED": "0",
+    "TOTAL": "34"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Bonham House",
+    "OCCUPIED": "0",
+    "TOTAL": "10"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Bonham Rd.",
+    "OCCUPIED": "1",
+    "TOTAL": "8"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Boyd Hall - East Lot",
+    "OCCUPIED": "4",
+    "TOTAL": "11"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Boyd Hall - South Lot",
+    "OCCUPIED": "100",
+    "TOTAL": "112"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Campus Ave. Building - Central",
+    "OCCUPIED": "2",
+    "TOTAL": "17"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Campus Ave. Building - East",
+    "OCCUPIED": "2",
+    "TOTAL": "21"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Campus Ave. Building - South",
+    "OCCUPIED": "2",
+    "TOTAL": "82"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Campus Ave. Building - South Timed",
+    "OCCUPIED": "2",
+    "TOTAL": "2"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Center Dr.",
+    "OCCUPIED": "2",
+    "TOTAL": "23"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Center for Performing Arts",
+    "OCCUPIED": "2",
+    "TOTAL": "75"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Central Food Stores",
+    "OCCUPIED": "1",
+    "TOTAL": "1"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Chestnut Fields",
+    "OCCUPIED": "2",
+    "TOTAL": "503"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Clawson Hall Lot",
+    "OCCUPIED": "5",
+    "TOTAL": "8"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Cole Service Building Lot",
+    "OCCUPIED":"0",
+    "TOTAL":"156"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Cook Field - East",
+    "OCCUPIED":"34",
+    "TOTAL":"111"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Cook Field - North",
+    "OCCUPIED":"0",
+    "TOTAL":"62"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Cook Field - South",
+    "OCCUPIED":"80",
+    "TOTAL":"116"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Cook Field - West",
+    "OCCUPIED":"60",
+    "TOTAL":"111"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Cook Place",
+    "OCCUPIED":"2",
+    "TOTAL":"7"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Culinary Support Center",
+    "OCCUPIED":"45",
+    "TOTAL":"131"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Dennison Hall - North",
+    "OCCUPIED":"0",
+    "TOTAL":"50"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Dennison Hall - South Lot",
+    "OCCUPIED":"26",
+    "TOTAL":"26"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Dewitt Lot",
+    "OCCUPIED":"2",
+    "TOTAL":"32"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Ditmer Field Lot",
+    "OCCUPIED":"2",
+    "TOTAL":"875"
+  },
+  {
+  "TYPE": "Red",
+  "NAME": "Dodds Service Drive",
+  "OCCUPIED":"1",
+  "TOTAL":"2"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Dorsey Service Drive",
+    "OCCUPIED":"1",
+    "TOTAL":"2"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Edwards Lot",
+    "OCCUPIED":"32",
+    "TOTAL":"64"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Emerson Hall Lot",
+    "OCCUPIED":"1",
+    "TOTAL":"23"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Engineering Building Patio",
+    "OCCUPIED":"1",
+    "TOTAL":"1"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Ethridge Hall Service Drive",
+    "OCCUPIED":"1",
+    "TOTAL":"1"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Flower Hall Lot",
+    "OCCUPIED":"2",
+    "TOTAL":"50"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Flower Hall Lot - Employee",
+    "OCCUPIED":"2",
+    "TOTAL":"16"
+  },
+  {
+  "TYPE": "Red",
+  "NAME": "Fryman Lot",
+  "OCCUPIED": "2",
+  "TOTAL": "562"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Garden Commons Service Drive",
+    "OCCUPIED": "1",
+    "TOTAL": "2"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Garrod Ln.",
+    "OCCUPIED": "1",
+    "TOTAL": "2"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Geothermal Plant Lot",
+    "OCCUPIED": "1",
+    "TOTAL": "17"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Glos Center Lot",
+    "OCCUPIED": "20",
+    "TOTAL": "30"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Goggin - South",
+    "OCCUPIED": "2",
+    "TOTAL": "15"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Goggin - South Lot",
+    "OCCUPIED": "11",
+    "TOTAL": "1"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Goggin Service Drive",
+    "OCCUPIED": "1",
+    "TOTAL": "2"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Hahne Hall",
+    "OCCUPIED": "1",
+    "TOTAL": "1"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Hall Auditorium Service Drive",
+    "OCCUPIED": "1",
+    "TOTAL": "1"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Hamilton Campus",
+    "OCCUPIED": "1",
+    "TOTAL": "1"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Hamilton Service Drive",
+    "OCCUPIED": "2",
+    "TOTAL": "2"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Hannah House Lot",
+    "OCCUPIED": "2",
+    "TOTAL": "7"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Harris Dining - South Lot",
+    "OCCUPIED": "23",
+    "TOTAL": "52"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Harris Drive",
+    "OCCUPIED": "22",
+    "TOTAL": "30"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Havighurst - East",
+    "OCCUPIED": "10",
+    "TOTAL": "44"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Havighurst - West",
+    "OCCUPIED": "1",
+    "TOTAL": "5"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Hepburn Hall Lot",
+    "OCCUPIED": "2",
+    "TOTAL": "7"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Heritage Commons - East",
+    "OCCUPIED": "100",
+    "TOTAL": "137"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Heritage Commons - West",
+    "OCCUPIED": "100",
+    "TOTAL": "150"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Hillcrest Hall Service Drive",
+    "OCCUPIED": "2",
+    "TOTAL": "3"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Hoyt Hall - East",
+    "OCCUPIED": "10",
+    "TOTAL": "45"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Hoyt Hall - West",
+    "OCCUPIED": "0",
+    "TOTAL": "67"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Irvin Dr.",
+    "OCCUPIED": "2",
+    "TOTAL": "15"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "King Library Lot",
+    "OCCUPIED": "10",
+    "TOTAL": "19"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Laws Driveway",
+    "OCCUPIED": "1",
+    "TOTAL": "1"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Lewis Place",
+    "OCCUPIED": "2",
+    "TOTAL": "10"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Lottie Moon House",
+    "OCCUPIED": "1",
+    "TOTAL": "2"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "MacCracken Service Drive",
+    "OCCUPIED": "1",
+    "TOTAL": "1"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "MacMillan Hall Lot",
+    "OCCUPIED": "10",
+    "TOTAL": "47"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Maple St.",
+    "OCCUPIED": "2",
+    "TOTAL": "64"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Maple St. - Employee",
+    "OCCUPIED": "2",
+    "TOTAL": "30"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Maple St. - Meters",
+    "OCCUPIED": "2",
+    "TOTAL": "32"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Maple Street Station Service Drive",
+    "OCCUPIED": "1",
+    "TOTAL": "1"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Marcum Conference Center Lot",
+    "OCCUPIED": "48",
+    "TOTAL": "85"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Marcum Dr./Circle",
+    "OCCUPIED": "2",
+    "TOTAL": "18"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Martin Dining Service Drive",
+    "OCCUPIED": "2",
+    "TOTAL": "4"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "McFarland",
+    "OCCUPIED": "1",
+    "TOTAL": "1"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "McGuffey Drive",
+    "OCCUPIED": "2",
+    "TOTAL": "3"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "McGuffey Hall Lot",
+    "OCCUPIED": "10",
+    "TOTAL": "20"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "McKee Hall Service Drive",
+    "OCCUPIED": "1",
+    "TOTAL": "1"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Miami Inn Lot",
+    "OCCUPIED": "15",
+    "TOTAL": "55"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Middletown Campus",
+    "OCCUPIED": "1",
+    "TOTAL": "1"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Millett Hall - East Lot",
+    "OCCUPIED": "90",
+    "TOTAL": "98"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Millett Hall - East Meters",
+    "OCCUPIED": "2",
+    "TOTAL": "3"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Millett Hall - North Lot",
+    "OCCUPIED": "20",
+    "TOTAL": "69"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Millett Hall - RV Lot",
+    "OCCUPIED": "2",
+    "TOTAL": "105"
+  },
+  {
+    "TYPE": "Yellow",
+    "NAME": "Millett Hall - West Lot",
+    "OCCUPIED": "200",
+    "TOTAL": "445"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Minnich Hall Service Drive",
+    "OCCUPIED": "1",
+    "TOTAL": "1"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Morris Hall Service Drive",
+    "OCCUPIED": "1",
+    "TOTAL": "1"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Murstein Alumni Center Lot",
+    "OCCUPIED": "0",
+    "TOTAL": "41"
+  },
+  {
+    "TYPE": "Paid",
+    "NAME": "North Garage",
+    "OCCUPIED": "0",
+    "TOTAL": "650"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Oak St.",
+    "OCCUPIED": "2",
+    "TOTAL": "155"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Patterson Ave.",
+    "OCCUPIED": "1",
+    "TOTAL": "10"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Patterson Place Lot",
+    "OCCUPIED": "1",
+    "TOTAL": "9"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Peabody Hall - East Lot",
+    "OCCUPIED": "1",
+    "TOTAL": "2"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Peabody Hall - North Lot",
+    "OCCUPIED": "1",
+    "TOTAL": "6"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Peabody Hall Driveway",
+    "OCCUPIED": "1",
+    "TOTAL": "1"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Pearson Hall Lot",
+    "OCCUPIED": "20",
+    "TOTAL": "121"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Pearson Service Drive",
+    "OCCUPIED": "1",
+    "TOTAL": "1"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Peffer Park Lot",
+    "OCCUPIED": "2",
+    "TOTAL": "25"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Phillips Hall Lot",
+    "OCCUPIED": "10",
+    "TOTAL": "19"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Police Services Center Lot",
+    "OCCUPIED": "10",
+    "TOTAL": "40"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Porter Hall Service Drive",
+    "OCCUPIED": "1",
+    "TOTAL": "1"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Presidents Hall",
+    "OCCUPIED": "2",
+    "TOTAL": "4"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Presser Hall Lot",
+    "OCCUPIED": "30",
+    "TOTAL": "30"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Rec Sports Center - South Lot",
+    "OCCUPIED": "23",
+    "TOTAL": "51"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Rec Sports Center - West Lot",
+    "OCCUPIED": "10",
+    "TOTAL": "57"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Richard Hall Service Drive",
+    "OCCUPIED": "1",
+    "TOTAL": "2"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Roudebush Hall Lot",
+    "OCCUPIED": "10",
+    "TOTAL": "30"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Roudebush Hall Lot - Timed",
+    "OCCUPIED": "2",
+    "TOTAL": "13"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Sawyer Lot",
+    "OCCUPIED": "2",
+    "TOTAL": "6"
+  },
+  {
+    "TYPE": "Paid",
+    "NAME": "Shriver Center - East Lot",
+    "OCCUPIED": "5",
+    "TOTAL": "47"
+  },
+  {
+    "TYPE": "Permit",
+    "NAME": "Shriver Center - West Lot",
+    "OCCUPIED": "23",
+    "TOTAL": "58"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Soccer Fields Lot",
+    "OCCUPIED": "2",
+    "TOTAL": "1"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "South Chiller Lot",
+    "OCCUPIED": "2",
+    "TOTAL": "50"
+  },
+  {
+    "TYPE": "Paid",
+    "NAME": "South Garage",
+    "OCCUPIED": "2",
+    "TOTAL": "601"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "South Garage Parking Lot",
+    "OCCUPIED": "2",
+    "TOTAL": "8"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Steam Plant Lot",
+    "OCCUPIED": "10",
+    "TOTAL": "18"
+  },
+
+  {
+    "TYPE": "Red",
+    "NAME": "Stonebridge Hall Service Drive",
+    "OCCUPIED": "2",
+    "TOTAL": "2"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Student Health Services Lot",
+    "OCCUPIED": "45",
+    "TOTAL": "70"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Symmes Hall - North Lot",
+    "OCCUPIED": "15",
+    "TOTAL": "26"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Symmes Hall - West",
+    "OCCUPIED": "1",
+    "TOTAL": "1"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Tallawanda Rd.",
+    "OCCUPIED": "2",
+    "TOTAL": "1"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Tappan Driveway",
+    "OCCUPIED": "1",
+    "TOTAL": "1"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Thomson Hall - East Lot",
+    "OCCUPIED": "10",
+    "TOTAL": "32"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Thomson Hall - West Lot",
+    "OCCUPIED": "5",
+    "TOTAL": "24"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Thomson Hall Circle",
+    "OCCUPIED": "2",
+    "TOTAL": "15"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Warfield Hall Lot",
+    "OCCUPIED": "9",
+    "TOTAL": "42"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Wells Hall Lot",
+    "OCCUPIED": "6",
+    "TOTAL": "37"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Western Dining Service Drive",
+    "OCCUPIED": "1",
+    "TOTAL": "2"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Western Dr.",
+    "OCCUPIED": "2",
+    "TOTAL": "20"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Western Dr. - Bachelor",
+    "OCCUPIED": "2",
+    "TOTAL": "8"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Western Lodge Lot",
+    "OCCUPIED": "7",
+    "TOTAL": "12"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Williams Hall - North Lot",
+    "OCCUPIED": "1",
+    "TOTAL": "27"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Williams Hall - South Drive",
+    "OCCUPIED": "2",
+    "TOTAL": "31"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Williams Hall - West Lot",
+    "OCCUPIED": "5",
+    "TOTAL": "24"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Wilson Hall - Circle",
+    "OCCUPIED": "2",
+    "TOTAL": "8"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Wilson Hall - East Lot",
+    "OCCUPIED": "4",
+    "TOTAL": "14"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Withrow Hall Service Drive",
+    "OCCUPIED": "2",
+    "TOTAL": "2"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Withrow Ln.",
+    "OCCUPIED": "2",
+    "TOTAL": "34"
+  },
+  {
+    "TYPE": "Yellow",
+    "NAME": "Yager Stadium - East Lot",
+    "OCCUPIED": "2",
+    "TOTAL": "172"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Yager Stadium - Inside Fence",
+    "OCCUPIED": "1",
+    "TOTAL": "1"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Yager Stadium - Red",
+    "OCCUPIED": "2",
+    "TOTAL": "52"
+  },
+  {
+    "TYPE": "Red",
+    "NAME": "Yager Stadium - West Lot",
+    "OCCUPIED": "2",
+    "TOTAL": "94"
+  }
+]

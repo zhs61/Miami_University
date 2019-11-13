@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "Happy_Riders_1_0">Happy Riders</string>
+    <string name = "options_prompt">Options</string>
+
+    <string-array name = "Options_Array">
+        <item>Options</item>
+        <item>Show all lots</item>
+        <item>Show only red permit lots</item>
+        <item>Show only yellow permit lots</item>
+        <item>Show only paid lots</item>
+        <item>Show only Nearest lots</item>
+    </string-array>
+</resources>

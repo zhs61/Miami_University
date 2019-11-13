@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Happy_RIder_1_0</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_parking_lot_detail">BAC LOT</string>
+    <string name="large_text">
+        "Replace with the information about parking lot."
+    </string>
+    <string name="action_settings">Settings</string>
+    <color name="white">#FFFFFF</color>
+</resources>
